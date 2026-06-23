@@ -31,11 +31,10 @@ I'm a passionate Software Developer dedicated to building impactful web and mobi
 ---
 
 ## 📊 GitHub Analytics
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual username in the URLs below!)*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald2117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald2117&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
