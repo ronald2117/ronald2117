@@ -33,16 +33,16 @@ I'm a passionate Software Developer dedicated to building impactful web and mobi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronald2117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  ![ronald2117's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronald2117&theme=tokyonight&hide_border=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald2117&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+- **LinkedIn:** [linkedin.com/in/ronald2117](https://ph.linkedin.com/in/ronald-abel-bab495212)
+- **Email:** [abel.ronald2117@gmail.com](mailto:your.email@example.com)
+- **Portfolio:** [ronald2117.github.io](ronald2117.github.io)
 
 <p align="center">
   "An amateur practices until they can get it right. A professional practices until they can't get it wrong."
