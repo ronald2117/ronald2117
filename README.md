@@ -11,15 +11,15 @@
 ## 💫 About Me
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="70%" style="padding-right: 20px;">
       I'm a passionate developer focused on building impactful web and mobile applications, optimizing local digital experiences, and exploring system security. I enjoy open-source collaboration, elegant workflows, and tactical technical challenges.
 
       - 🔭 **Current Project:** Arena OTB
       - ⚡ **Fun Fact:** When I'm not coding, I play chess or solve CTF problems
       - 🛡️ **Future Goal:** Become a strong software engineer while transitioning into penetration testing and cybersecurity
     </td>
-    <td valign="top" width="35%" align="right">
-      <img src="https://media.tenor.com/DUajcCGhb7MAAAAM/spaghett-spaghetti.gif" alt="Spaghetti meme" width="220" />
+    <td valign="top" width="30%" align="right">
+      <img src="https://media.tenor.com/DUajcCGhb7MAAAAM/spaghett-spaghetti.gif" alt="Spaghetti meme" width="230" />
     </td>
   </tr>
 </table>
