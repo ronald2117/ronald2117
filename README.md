@@ -33,7 +33,7 @@ I'm a passionate Software Developer dedicated to building impactful web and mobi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  ![ronald2117's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronald2117&theme=tokyonight&hide_border=true)
+  [ronald2117's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronald2117&theme=tokyonight&hide_border=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald2117&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
