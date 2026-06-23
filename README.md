@@ -11,7 +11,7 @@
 ## 💫 About Me
 I'm a passionate developer focused on building impactful web and mobile applications, optimizing local digital experiences, and exploring system security. I enjoy open-source collaboration, elegant workflows, and tactical technical challenges.
 
-- 🔭 **Current Project:** Arena OTB
+- 🔭 **Current Project:** Arena OTB - a real-time management system for physical chess arenas.
 - ⚡ **Fun Fact:** When I'm not coding, I play chess or solve CTF problems
 - 🛡️ **Future Goal:** Become a strong software engineer while transitioning into penetration testing and cybersecurity
 
