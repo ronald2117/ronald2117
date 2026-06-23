@@ -15,6 +15,10 @@ I'm a passionate Software Developer dedicated to building impactful web and mobi
 - ⚡ **Fun Fact:** When I'm not coding, I'm analyzing chess openings or optimizing my keyboard-driven Linux environment.
 - 🛡️ **Future Goal:** Transitioning into penetration testing and cybersecurity.
 
+<p align="center">
+  <img src="https://media.tenor.com/DUajcCGhb7MAAAAM/spaghett-spaghetti.gif" alt="Spaghetti meme" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -23,7 +27,7 @@ I'm a passionate Software Developer dedicated to building impactful web and mobi
 👉 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Databases
-👉 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+👉 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
 
 ### Environment & Tools
 👉 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-57467B?style=for-the-badge&logo=neovim&logoColor=51E0A4) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
