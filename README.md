@@ -46,7 +46,7 @@ I'm a passionate developer focused on building impactful web and mobile applicat
 ## 🤝 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/ronald2117](https://ph.linkedin.com/in/ronald-abel-bab495212)
 - **Email:** [abel.ronald2117@gmail.com](mailto:your.email@example.com)
-- **Portfolio:** [ronald2117.github.io](ronald2117.github.io)
+- **Portfolio:** [ronald2117.github.io]([ronald2117.github.io](https://ronald2117.github.io/))
 
 <p align="center">
   "An amateur practices until they can get it right. A professional practices until they can't get it wrong."
